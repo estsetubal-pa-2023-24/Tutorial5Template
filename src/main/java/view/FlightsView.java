@@ -40,6 +40,7 @@ public class FlightsView extends BorderPane {
     private Label labelBusiestAirportNumberFlights;
 
     /** */
+
     private ObservableList<Vertex<Airport>> listAirportsToRemove;
     private ObservableList<Vertex<Airport>> listAirportsFrom;
     private ObservableList<Vertex<Airport>> listAirportsTo;
